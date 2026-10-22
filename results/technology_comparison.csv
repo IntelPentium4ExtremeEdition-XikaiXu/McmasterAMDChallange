@@ -1,0 +1,7 @@
+technology,strengths,industrial_limitations,recommendation
+Encoder and PLC feedback,Direct axis motion and mature OT interfaces,Slip homing and access permissions,Preferred baseline
+UWB positioning,Independent absolute reference,Steel multipath and NLOS,Conditional pilot for drift correction
+LiDAR laser,Potentially accurate absolute range,Dust occlusion and alignment,Consider only with clear geometry
+Machine vision,Visual markers and object identification,Lighting and maintenance,Future extension
+IMU inertial,Fast cheap motion assistance,Integrated position drift,Auxiliary only
+Hybrid,Combines local continuity and drift correction,Complexity and fault detection,Preferred evaluated architecture

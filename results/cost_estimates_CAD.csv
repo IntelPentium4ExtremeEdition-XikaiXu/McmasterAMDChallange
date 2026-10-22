@@ -1,0 +1,15 @@
+item,quantity,unit_cost_CAD,extended_CAD,scope
+Axis feedback devices,3,275,825,baseline crane
+Mechanical coupling mounting,3,180,540,baseline crane
+Industrial IO interface,1,1500,1500,baseline crane
+Edge gateway,1,1100,1100,baseline crane
+Industrial networking,1,600,600,baseline crane
+Cables enclosures protection,1,1100,1100,baseline crane
+Installation labor h,24,110,2640,baseline crane
+Commissioning labor h,16,110,1760,baseline crane
+Baseline total,1,10065,10065,per crane
+Optional tag and calibration,1,1860,1860,incremental per crane
+Shared six anchor infrastructure,1,8900,8900,per one zone
+Integration engineering allowance,1,4400,4400,per zone
+One crane hybrid pilot,1,25225,25225,scenario total
+Five crane one zone hybrid,1,72925,72925,scenario total

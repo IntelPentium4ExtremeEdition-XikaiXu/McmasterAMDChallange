@@ -1,0 +1,9 @@
+risk,impact,proposed_mitigation,residual_concern
+Steel NLOS multipath,Absolute fix bias and blackout,Innovation gating and field survey,High
+Encoder slip and homing,Coordinate drift,Periodic reference checks,Medium
+Cable and load swing,Coil-drop position offset,Settled-load and geometry correction,High
+Network or time-sync outage,Delayed or stale telemetry,Timestamp quality status and buffered logs,Medium
+Electrical noise and vibration,Intermittent sensor faults,Shielding isolation filters and industrial housing,Medium
+OT cybersecurity,Unauthorized interaction,Read-only segregated reviewed plant network,High
+Premature inventory update,Wrong coil placement,Independent MES ID and human verification,High
+Synthetic-to-field gap,Overestimated performance,Instrumented measured pilot before rollout,High

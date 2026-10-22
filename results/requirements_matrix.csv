@@ -1,0 +1,9 @@
+id,AMD_challenge_requirement,demo_evidence,limitation
+R1,Continuous 3D XYZ position,C estimation at 10 Hz plus on-demand JSON query,Simulated sensors only
+R2,Robust in steel dust vibration and noise,Injected losses bias drift and outlier gate,Does not model actual RF propagation
+R3,24x7 high availability and low maintenance,Fast-forward simulated-time soak CLI,Does not prove real hardware 24x7 reliability
+R4,Updates appropriate for coil location,Positions and simulated pickup dropoff and inventory,Coil identity events are emulated
+R5,OT information integration,Read-only HTTP JSON API,Real OT protocol and approvals pending
+R6,SCADA API or TCP IP query,Versioned position endpoint and C client,HTTP on TCP loopback only
+R7,Visualization and historical route,Local browser dashboard and CSV trace,Not a production HMI
+R8,Cost scalability installation maintenance,CAD cost table risk register and roadmap,Assumed costs not vendor quotes
